@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "89ac916fd931a9fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ebbe2d14f5b8ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45dd9b0bd49bc644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ripley's windmill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c5b7a61dc4f64a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "108e51b35c3de1b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18573ad4fb0db05a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d7ab8673b8686b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ecf27f21e633189",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3893eaddb31ca43",
+    "type": "split",
+    "children": [
+      {
+        "id": "27dd513b118dfc6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6322b9b80a169843",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ripley's windmill.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b167e1264d952bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ripley's windmill.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f39ea72b560cf3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "685b87c66d47c52f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ripley's windmill.md"
+              }
+            }
+          },
+          {
+            "id": "972e7305ee1d0223",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "a85c93ad7c39d014",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "ripley's windmill.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45dd9b0bd49bc644",
+  "lastOpenFiles": [
+    "ripley's rainbow.md",
+    "factory.md",
+    "boston box.md",
+    "531.md",
+    "441 sync.md",
+    "441.md",
+    "423.md",
+    "4b fountain.md",
+    "3b shower.md",
+    "3b cascade.md",
+    "3b box.md",
+    "4b fountain sync.md",
+    "5b split cascade.md",
+    "5b cascade.md",
+    "factory alternating.md",
+    "ripley's windmill.md",
+    "gifs/531.gif",
+    "6b stacked cascade.md",
+    "gifs/factory alternating.gif",
+    "6b fountain sync.md",
+    "gifs/6b stacked cascade.gif",
+    "gifs/5b split cascade.gif",
+    "gifs/boston box.gif",
+    "gifs/441 sync.gif",
+    "6b fountain.md",
+    "gifs/6b fountain sync.gif",
+    "gifs/4b fountain sync.gif",
+    "gifs/3b shower.gif",
+    "templates/pattern.md",
+    "templates/z copy pastes.md",
+    "gifs/ripley's windmill.gif",
+    "templates",
+    "gifs",
+    "Welcome.md"
+  ]
+}

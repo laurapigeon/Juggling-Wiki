@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "siteswap": "text",
+    "props": "number",
+    "LoJ difficulty": "number",
+    "alt siteswaps": "multitext",
+    "beats": "number"
+  }
+}
