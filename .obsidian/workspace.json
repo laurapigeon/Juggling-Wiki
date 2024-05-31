@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45dd9b0bd49bc644",
+            "id": "555777792bc608e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ripley's windmill.md",
+                "file": "2b shower.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ripley's windmill.md",
+                "file": "2b shower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ripley's windmill.md",
+                "file": "2b shower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ripley's windmill.md"
+                "file": "2b shower.md"
               }
             }
           },
@@ -147,12 +147,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ripley's windmill.md"
+                "file": "2b shower.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,41 +168,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45dd9b0bd49bc644",
+  "active": "555777792bc608e0",
   "lastOpenFiles": [
+    "shower.md",
+    "5b shower.md",
+    "4b shower.md",
+    "2b shower.md",
+    "shuffle.md",
+    "shower cascade.md",
+    "ripley's windmill.md",
     "ripley's rainbow.md",
+    "reverse factory.md",
+    "reverse cascade.md",
+    "mills mess.md",
+    "luke's shuffle.md",
+    "low shuffle.md",
+    "inverted box.md",
+    "half-shower.md",
+    "fountain sync.md",
+    "fountain.md",
+    "fast factory.md",
+    "factory alternating.md",
     "factory.md",
+    "cascade.md",
+    "box.md",
     "boston box.md",
     "531.md",
     "441 sync.md",
     "441.md",
-    "423.md",
-    "4b fountain.md",
-    "3b shower.md",
-    "3b cascade.md",
-    "3b box.md",
-    "4b fountain sync.md",
-    "5b split cascade.md",
-    "5b cascade.md",
-    "factory alternating.md",
-    "ripley's windmill.md",
+    "Pasted image 20240531223806.png",
     "gifs/531.gif",
-    "6b stacked cascade.md",
     "gifs/factory alternating.gif",
-    "6b fountain sync.md",
     "gifs/6b stacked cascade.gif",
     "gifs/5b split cascade.gif",
     "gifs/boston box.gif",
     "gifs/441 sync.gif",
-    "6b fountain.md",
     "gifs/6b fountain sync.gif",
     "gifs/4b fountain sync.gif",
     "gifs/3b shower.gif",
-    "templates/pattern.md",
-    "templates/z copy pastes.md",
-    "gifs/ripley's windmill.gif",
     "templates",
-    "gifs",
-    "Welcome.md"
+    "gifs"
   ]
 }

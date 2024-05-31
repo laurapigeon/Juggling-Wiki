@@ -2,19 +2,22 @@
 aliases: 
 props: 3
 beats: 3
-siteswap: "531"
-hands: (10)(30).
+siteswap: (2x,4x)(4,2)(4,2)
+hands: (30)(0).(30)(-30,60).(30)(-30).(-30,60)(30,60).(0)(30).(30,60)(30).
 alt siteswaps: 
 sync pair: 
 symm pair: 
 prop pair: 
 beat pair: 
-reverse pair: 
+reverse pair:
+  - "[[factory]]"
 tags:
-  - async
-  - symm
-  - slam
-LoJ difficulty: 5
+  - sync
+  - asymm
+  - carry
+  - drop
+  - claw
+LoJ difficulty: 4
 ---
 siteswap pair:
 ```dataview

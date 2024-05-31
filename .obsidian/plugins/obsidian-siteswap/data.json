@@ -1,0 +1,11 @@
+{
+  "width": 200,
+  "height": 225,
+  "scale": 1,
+  "fps": 33,
+  "stereo": false,
+  "slowdown": 2,
+  "camangle": "",
+  "showground": "auto",
+  "hidejugglers": ""
+}

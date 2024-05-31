@@ -1,20 +1,25 @@
 ---
-aliases: 
+aliases:
+  - 3b box
 props: 3
-beats: 3
-siteswap: "531"
-hands: (10)(30).
-alt siteswaps: 
+beats: 2
+siteswap: (4,2x)*
+hands: (20)(20).
+alt siteswaps:
+  - "612"
 sync pair: 
-symm pair: 
+symm pair:
+  - "[[shower|shower]]"
 prop pair: 
-beat pair: 
+beat pair:
+  - "[[441 sync]]"
 reverse pair: 
 tags:
+  - sync
   - async
   - symm
   - slam
-LoJ difficulty: 5
+LoJ difficulty: 6
 ---
 siteswap pair:
 ```dataview

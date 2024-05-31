@@ -1,10 +1,12 @@
 ---
-aliases: 
+aliases:
+  - 3b mills mess
 props: 3
-beats: 3
-siteswap: "531"
-hands: (10)(30).
-alt siteswaps: 
+beats: 6
+siteswap: "3"
+hands: (-30)(10).(30)(-10).(-30)(10).
+alt siteswaps:
+  - "522"
 sync pair: 
 symm pair: 
 prop pair: 
@@ -13,8 +15,7 @@ reverse pair:
 tags:
   - async
   - symm
-  - slam
-LoJ difficulty: 5
+LoJ difficulty:
 ---
 siteswap pair:
 ```dataview

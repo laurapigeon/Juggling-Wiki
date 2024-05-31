@@ -1,20 +1,24 @@
 ---
-aliases: 
+aliases:
+  - inverted shower
 props: 3
-beats: 3
-siteswap: "531"
-hands: (10)(30).
-alt siteswaps: 
+beats: 1
+siteswap: (4x,2x)
+hands: (10)(30,60).(30,60)(10).
+alt siteswaps:
+  - "51"
 sync pair: 
-symm pair: 
+symm pair:
+  - "[[inverted box]]"
 prop pair: 
 beat pair: 
 reverse pair: 
 tags:
+  - sync
   - async
-  - symm
+  - asymm
   - slam
-LoJ difficulty: 5
+LoJ difficulty: 7
 ---
 siteswap pair:
 ```dataview

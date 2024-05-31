@@ -1,20 +1,23 @@
 ---
-aliases: 
+aliases:
+  - 3b reverse cascade
 props: 3
-beats: 3
-siteswap: "531"
-hands: (10)(30).
-alt siteswaps: 
+beats: 2
+siteswap: "3"
+hands: (30)(10).
+alt siteswaps:
+  - "522"
 sync pair: 
-symm pair: 
-prop pair: 
+symm pair:
+  - "[[half-shower]]"
+prop pair:
+  - "[[5b reverse cascade]]"
 beat pair: 
 reverse pair: 
 tags:
   - async
   - symm
-  - slam
-LoJ difficulty: 5
+LoJ difficulty:
 ---
 siteswap pair:
 ```dataview

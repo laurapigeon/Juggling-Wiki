@@ -7,6 +7,12 @@
     "props": "number",
     "LoJ difficulty": "number",
     "alt siteswaps": "multitext",
-    "beats": "number"
+    "beats": "number",
+    "siteswap pair": "multitext",
+    "prop pair": "multitext",
+    "symm pair": "multitext",
+    "sync pair": "multitext",
+    "beat pair": "multitext",
+    "reverse pair": "multitext"
   }
 }

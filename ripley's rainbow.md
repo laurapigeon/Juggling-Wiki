@@ -7,12 +7,23 @@ hands: (30)(10).(10)(10).(10)(10).(30)(10).(10)(10).(30)(10).
 alt siteswaps:
   - 3[34]032
 sync pair: 
-symm pair: "[[ripley's windmill]]"
+symm pair:
+  - "[[ripley's windmill]]"
 prop pair: 
+beat pair: 
+reverse pair: 
 tags:
   - async
   - symm
   - multiplex
 LoJ difficulty: 4
 ---
-![[ripley's rainbow.gif]]
+siteswap pair:
+```dataview
+LIST
+WHERE siteswap = this.siteswap
+WHERE file.name != this.file.name
+```
+```dataviewjs
+dv.paragraph("```siteswap\npattern: " + dv.current().siteswap + "\nhands: " + dv.current().hands + "\ncolors: mixed\n```");
+```

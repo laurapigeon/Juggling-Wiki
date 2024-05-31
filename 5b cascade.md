@@ -7,10 +7,22 @@ hands: (10)(30).
 alt siteswaps: 
 sync pair: 
 symm pair: 
-prop pair: "[[3b cascade]]"
+prop pair:
+  - "[[cascade]]"
+beat pair: 
+reverse pair:
+  - "[[5b reverse cascade]]"
 tags:
   - async
   - symm
 LoJ difficulty: 9
 ---
-![[5b cascade.gif]]
+siteswap pair:
+```dataview
+LIST
+WHERE siteswap = this.siteswap
+WHERE file.name != this.file.name
+```
+```dataviewjs
+dv.paragraph("```siteswap\npattern: " + dv.current().siteswap + "\nhands: " + dv.current().hands + "\ncolors: mixed\n```");
+```
