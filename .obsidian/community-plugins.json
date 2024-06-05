@@ -1,4 +1,6 @@
 [
   "dataview",
-  "obsidian-siteswap"
+  "obsidian-siteswap",
+  "obsidian-linter",
+  "templater-obsidian"
 ]

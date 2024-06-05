@@ -1,21 +1,17 @@
 ---
-aliases: 
 props: 6
 beats: 1
 siteswap: (6,6)
 hands: (10)(30).
-alt siteswaps: 
 sync pair:
   - "[[6b fountain]]"
-symm pair: 
+symm pair:
+  - "[[three in one]]"
 prop pair:
   - "[[fountain sync]]"
-beat pair: 
-reverse pair: 
 tags:
-  - sync
   - symm
-LoJ difficulty:
+  - sync
 ---
 siteswap pair:
 ```dataview

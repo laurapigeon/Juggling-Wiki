@@ -1,23 +1,15 @@
 ---
-aliases:
-  - split multiplex cascade
+aliases: [split multiplex cascade]
 props: 5
 beats: 2
-siteswap: ([4x4],2)*
-hands: (10)(30).
+siteswap: ([44x],2)*
+hands: (0)(30).(20)(20).
 alt siteswaps:
   - "[32T]"
-sync pair: 
-symm pair: 
-prop pair: 
-beat pair: 
-reverse pair: []
-tags:
-  - async
-  - asymm
-  - multiplex
+tags: [asymm, async, multiplex]
 LoJ difficulty: 6
 ---
+
 siteswap pair:
 ```dataview
 LIST

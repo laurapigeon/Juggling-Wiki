@@ -1,28 +1,27 @@
 ---
-aliases:
-  - 3b shower
+aliases: [3b shower]
 props: 3
 beats: 1
 siteswap: (4x,2x)
 hands: (20)(20).
-alt siteswaps:
-  - "51"
-sync pair: 
+sync pair:
+  - "[[shower async]]"
 symm pair:
-  - "[[box|box]]"
+  - "[[box]]"
 prop pair:
   - "[[2b shower]]"
   - "[[4b shower]]"
   - "[[5b shower]]"
-beat pair: 
-reverse pair: 
-tags:
-  - sync
-  - async
-  - asymm
-  - slam
+beat pair:
+  - "[[shower stalled]]"
+siteswap pair:
+  - "[[low shuffle]]"
+  - "[[shower cascade]]"
+  - "[[shuffle]]"
+tags: [asymm, slam, sync]
 LoJ difficulty: 5
 ---
+
 siteswap pair:
 ```dataview
 LIST

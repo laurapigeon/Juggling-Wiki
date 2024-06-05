@@ -1,21 +1,14 @@
 ---
-aliases:
-  - 4b sync fountain
+aliases: [4b sync fountain]
 props: 4
 beats: 1
 siteswap: (4,4)
 hands: (10)(30).
-alt siteswaps: 
 sync pair:
   - "[[fountain]]"
-symm pair: 
 prop pair:
   - "[[6b fountain sync]]"
-beat pair: 
-reverse pair: 
-tags:
-  - sync
-  - symm
+tags: [symm, sync]
 LoJ difficulty: 7
 ---
 siteswap pair:

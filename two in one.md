@@ -1,0 +1,23 @@
+---
+props: 2
+beats: 1
+siteswap: "40"
+hands: (10)(30).(20)(20).
+alt siteswaps:
+  - (4,0)
+symm pair:
+  - "[[fountain sync]]"
+prop pair:
+  - "[[three in one]]"
+tags: [asymm, sync]
+---
+
+siteswap pair:
+```dataview
+LIST
+WHERE siteswap = this.siteswap
+WHERE file.name != this.file.name
+```
+```dataviewjs
+dv.paragraph("```siteswap\npattern: " + dv.current().siteswap + "\nhands: " + dv.current().hands + "\ncolors: mixed\n```");
+```

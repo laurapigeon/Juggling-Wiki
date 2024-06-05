@@ -1,26 +1,25 @@
 ---
-aliases:
-  - 3b box
+aliases: [3b box]
 props: 3
 beats: 2
 siteswap: (4,2x)*
 hands: (20)(20).
-alt siteswaps:
-  - "612"
-sync pair: 
+sync pair:
+  - "[[box async]]"
 symm pair:
-  - "[[shower|shower]]"
-prop pair: 
+  - "[[shower]]"
+prop pair:
+  - "[[4b box]]"
 beat pair:
   - "[[441 sync]]"
-reverse pair: 
-tags:
-  - sync
-  - async
-  - symm
-  - slam
+siteswap pair:
+  - "[[inverted box]]"
+  - "[[luke's shuffle]]"
+  - "[[n box]]"
+tags: [slam, symm, sync]
 LoJ difficulty: 6
 ---
+
 siteswap pair:
 ```dataview
 LIST

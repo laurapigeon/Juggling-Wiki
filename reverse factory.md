@@ -1,22 +1,11 @@
 ---
-aliases: 
 props: 3
 beats: 3
 siteswap: (2x,4x)(4,2)(4,2)
 hands: (30)(0).(30)(-30,60).(30)(-30).(-30,60)(30,60).(0)(30).(30,60)(30).
-alt siteswaps: 
-sync pair: 
-symm pair: 
-prop pair: 
-beat pair: 
 reverse pair:
   - "[[factory]]"
-tags:
-  - sync
-  - asymm
-  - carry
-  - drop
-  - claw
+tags: [asymm, carry, claw, drop, sync]
 LoJ difficulty: 4
 ---
 siteswap pair:

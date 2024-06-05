@@ -1,18 +1,11 @@
 ---
-aliases: 
 props: 
 beats: 
 siteswap: 
 hands: 
-alt siteswaps: 
-sync pair: 
-symm pair: 
-prop pair: 
-beat pair: 
-reverse pair: 
-tags: 
-LoJ difficulty:
+tags: []
 ---
+
 siteswap pair:
 ```dataview
 LIST

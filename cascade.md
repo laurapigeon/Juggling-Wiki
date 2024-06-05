@@ -7,17 +7,24 @@ siteswap: "3"
 hands: (10)(30).
 alt siteswaps:
   - "522"
-sync pair: 
-symm pair: 
 prop pair:
   - "[[5b cascade]]"
-beat pair: 
-reverse pair: 
+reverse pair:
+  - "[[reverse cascade]]"
+siteswap pair:
+  - "[[boston mess]]"
+  - "[[charley]]"
+  - "[[half mills' mess]]"
+  - "[[half shower]]"
+  - "[[mills' mess]]"
+  - "[[reverse cascade]]"
+  - "[[tennis]]"
 tags:
   - async
   - symm
 LoJ difficulty: 2
 ---
+
 siteswap pair:
 ```dataview
 LIST

@@ -7,16 +7,16 @@ siteswap: (4,2x)*
 hands: (10)(10).(30,60)(30,60).
 alt siteswaps:
   - "612"
-sync pair: 
 symm pair:
   - "[[low shuffle]]"
-prop pair: 
-beat pair: 
-reverse pair: 
+siteswap pair:
+  - "[[box]]"
+  - "[[luke's shuffle]]"
+  - "[[n box]]"
 tags:
-  - sync
-  - symm
   - slam
+  - symm
+  - sync
 LoJ difficulty: 7
 ---
 siteswap pair:

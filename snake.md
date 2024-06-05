@@ -1,23 +1,11 @@
 ---
-aliases:
-  - 3b half shower
 props: 3
-beats: 2
-siteswap: "3"
-hands: (10)(30).(30)(10).
-alt siteswaps:
-  - "522"
-sync pair: 
-symm pair:
-  - "[[reverse cascade|reverse cascade]]"
-prop pair: 
-beat pair: 
-reverse pair: 
-tags:
-  - async
-  - asymm
-LoJ difficulty: 3
+beats: 10
+siteswap: "50505"
+hands: (10)(30).(20)(20).(10)(30).(20)(20).(10)(30).
+tags: [async, symm]
 ---
+
 siteswap pair:
 ```dataview
 LIST

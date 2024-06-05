@@ -1,21 +1,13 @@
 ---
-aliases: 
 props: 3
 beats: 3
-siteswap: (4x,2)(0,[4x4])(0,4x)*
+siteswap: (4x,2)(0,[44x])(0,4x)*
 hands: (30)(10).(10)(10).(10)(10).(30)(10).(10)(10).(30)(10).
 alt siteswaps:
   - 3[34]032
-sync pair: 
 symm pair:
   - "[[ripley's windmill]]"
-prop pair: 
-beat pair: 
-reverse pair: 
-tags:
-  - async
-  - symm
-  - multiplex
+tags: [async, multiplex, symm]
 LoJ difficulty: 4
 ---
 siteswap pair:

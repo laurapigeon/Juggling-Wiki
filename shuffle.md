@@ -1,22 +1,15 @@
 ---
-aliases: 
 props: 3
 beats: 1
 siteswap: (4x,2x)
-hands: (20)(30).(30,60)(10).
-alt siteswaps:
-  - "51"
-sync pair: 
+hands: (20)(30).(30,60)(10,-10).
 symm pair:
   - "[[luke's shuffle]]"
-prop pair: 
-beat pair: 
-reverse pair: 
-tags:
-  - sync
-  - async
-  - asymm
-  - slam
+siteswap pair:
+  - "[[low shuffle]]"
+  - "[[shower cascade]]"
+  - "[[shower]]"
+tags: [asymm, slam, sync]
 LoJ difficulty: 7
 ---
 siteswap pair:

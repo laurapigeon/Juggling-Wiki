@@ -4,19 +4,19 @@ aliases:
 props: 3
 beats: 2
 siteswap: (4,2x)*
-hands: (10)(10).(30,60)(30).
+hands: (10)(10,-10).(30,60)(30).
 alt siteswaps:
   - "612"
-sync pair: 
 symm pair:
   - "[[shuffle]]"
-prop pair: 
-beat pair: 
-reverse pair: 
+siteswap pair:
+  - "[[box]]"
+  - "[[inverted box]]"
+  - "[[n box]]"
 tags:
-  - sync
-  - symm
   - slam
+  - symm
+  - sync
 LoJ difficulty: 7
 ---
 siteswap pair:

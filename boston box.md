@@ -1,22 +1,17 @@
 ---
-aliases:
-  - boston shuffle box
+aliases: [boston shuffle box]
 props: 3
 beats: 2
 siteswap: (4x,2x)(2,4x)*
-hands: (10)(30).(20)(20).(10)(30).(10)(30).
-alt siteswaps: 
-sync pair: 
-symm pair: 
-prop pair: 
-beat pair: 
-reverse pair: 
-tags:
-  - async
-  - symm
-  - slam
-LoJ difficulty:
+hands: (10)(20).(20)(30).(20)(30).(10)(20).
+siteswap pair:
+  - "[[boston shuffle orbit]]"
+  - "[[boston shuffle]]"
+  - "[[burke's slams]]"
+  - "[[takeouts slams]]"
+tags: [slam, symm, sync]
 ---
+
 siteswap pair:
 ```dataview
 LIST

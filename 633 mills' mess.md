@@ -1,22 +1,13 @@
 ---
-aliases:
-  - 3b mills mess
-props: 3
+props: 4
 beats: 6
-siteswap: "3"
-hands: (-30)(10).(30)(-10).(-30)(10).
-alt siteswaps:
-  - "522"
-sync pair: 
-symm pair: 
-prop pair: 
-beat pair: 
-reverse pair: 
-tags:
-  - async
-  - symm
-LoJ difficulty:
+siteswap: "633"
+hands: (-30)(10).(-30)(10).(30)(-10).
+hands pair:
+  - "[[mills' mess]]"
+tags: [async, symm]
 ---
+
 siteswap pair:
 ```dataview
 LIST

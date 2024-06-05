@@ -1,0 +1,24 @@
+---
+props: 3
+beats: 2
+siteswap: "51"
+hands: (20)(20).
+sync pair:
+  - "[[shower]]"
+symm pair:
+  - "[[box async]]"
+prop pair:
+  - "[[2b shower async]]"
+  - "[[4b shower async]]"
+  - "[[5b shower async]]"
+tags: [asymm, async, slam]
+---
+siteswap pair:
+```dataview
+LIST
+WHERE siteswap = this.siteswap
+WHERE file.name != this.file.name
+```
+```dataviewjs
+dv.paragraph("```siteswap\npattern: " + dv.current().siteswap + "\nhands: " + dv.current().hands + "\ncolors: mixed\n```");
+```
