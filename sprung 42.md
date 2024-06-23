@@ -1,15 +1,12 @@
 ---
-props: 2
-beats: 1
-siteswap: "40"
-hands: (10)(30).(20)(20).
-alt siteswaps:
-  - (4,0)
-symm pair:
-  - "[[fountain sync]]"
-prop pair:
-  - "[[three in one]]"
-tags: [asymm, sync]
+props: 4
+beats: 2
+siteswap: (8,2x)(2x,4)
+hands: (10)(20).(20)(20).(20)(30).(20)(20).
+tags:
+  - asymm
+  - sync
+  - slam
 ---
 
 siteswap pair:

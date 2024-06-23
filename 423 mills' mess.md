@@ -2,12 +2,13 @@
 props: 3
 beats: 6
 siteswap: "423"
-hands: (-30)(10).(-30)(10).(30)(10).
+hands: (-30)(10).(-20)(10).(30)(10).
 sync pair:
   - "[[burke's barrage]]"
-hands pair:
-  - "[[mills' mess]]"
-tags: [async, carry, symm]
+tags:
+  - async
+  - carry
+  - symm
 ---
 
 siteswap pair:

@@ -1,13 +1,12 @@
 ---
-aliases: [split multiplex cascade]
-props: 5
+props: 4
 beats: 2
-siteswap: ([44x],2)*
-hands: (0)(30).(20)(20).
-alt siteswaps:
-  - "[32T]"
-tags: [asymm, async, multiplex]
-LoJ difficulty: 6
+siteswap: ([44x],2)(2,4x)
+hands: (0)(30).(30)(30).(30)(30).(10)(30).
+tags:
+  - asymm
+  - async
+  - multiplex
 ---
 
 siteswap pair:

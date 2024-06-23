@@ -6,9 +6,9 @@ hands: (-30)(-10).(-30)(-10).(30)(10).
 siteswap pair:
   - "[[5b cascade]]"
   - "[[5b reverse cascade]]"
-hands pair:
-  - "[[mills' mess]]"
-tags: [async, symm]
+tags:
+  - async
+  - symm
 ---
 
 siteswap pair:

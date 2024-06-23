@@ -12,6 +12,7 @@ prop pair:
 tags: [asymm, slam, sync]
 LoJ difficulty: 9
 ---
+
 siteswap pair:
 ```dataview
 LIST

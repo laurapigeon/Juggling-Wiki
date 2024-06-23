@@ -4,11 +4,12 @@ beats: 6
 siteswap: "441"
 hands: (-30)(10).(-30)(-10).(20)(10).
 siteswap pair:
-  - "[[441]]"
   - "[[reverse 441]]"
-hands pair:
-  - "[[mills' mess]]"
-tags: [async, pass, symm]
+  - "[[441]]"
+tags:
+  - async
+  - pass
+  - symm
 LoJ difficulty: 6
 ---
 

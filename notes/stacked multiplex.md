@@ -19,6 +19,11 @@ hands: (10)(30).(20)(20).(10)(20).(20)(30).
 colors: mixed
 ```
 ```siteswap
+pattern: ([44],0)(4,0)([42],0)
+hands: (10)(30).(20)(20).
+colors: mixed
+```
+```siteswap
 pattern: (4,2)([4x4x],2)*
 hands: (10)(30).(20)(20).(10)(20).(20)(30).
 colors: mixed

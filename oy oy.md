@@ -4,9 +4,12 @@ beats: 2
 siteswap: (4,2)
 hands: (30)(0,20).(0,60)(0).(0,20)(30).(0)(0,60).
 siteswap pair:
-  - "[[fake columns]]"
   - "[[yo yo]]"
-tags: [asymm, carry, sync]
+  - "[[fake columns]]"
+tags:
+  - asymm
+  - carry
+  - sync
 LoJ difficulty: 2
 ---
 

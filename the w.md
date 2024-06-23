@@ -11,11 +11,10 @@ siteswap pair:
   - "[[ping pong]]"
   - "[[reverse 423]]"
   - "[[takeouts]]"
-tags:
-  - symm
-  - sync
+tags: [symm, sync]
 LoJ difficulty: 2
 ---
+
 siteswap pair:
 ```dataview
 LIST

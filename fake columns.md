@@ -8,9 +8,10 @@ symm pair:
 siteswap pair:
   - "[[oy oy]]"
   - "[[yo yo]]"
-hands pair:
-  - "[[columns]]"
-tags: [asymm, carry, sync]
+tags:
+  - asymm
+  - carry
+  - sync
 LoJ difficulty: 2
 ---
 

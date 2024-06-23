@@ -1,5 +1,6 @@
 ---
-aliases: [3b mills' mess]
+aliases:
+  - 3b mills' mess
 props: 3
 beats: 6
 siteswap: "3"
@@ -7,14 +8,24 @@ hands: (-30)(-10).(30)(-10).(-30)(10).
 alt siteswaps:
   - "522"
 siteswap pair:
-  - "[[boston mess]]"
-  - "[[cascade]]"
-  - "[[charley]]"
-  - "[[half mills' mess]]"
-  - "[[half shower]]"
-  - "[[reverse cascade]]"
+  - "[[windmill]]"
+  - "[[underarm tennis]]"
   - "[[tennis]]"
-tags: [async, symm]
+  - "[[reverse cascade]]"
+  - "[[mills' mess windmill]]"
+  - "[[mills' mess reverse crosscade]]"
+  - "[[half shower]]"
+  - "[[half mills' mess]]"
+  - "[[flo's mess]]"
+  - "[[crossed arm cascade]]"
+  - "[[crossed arm reverse cascade]]"
+  - "[[cherry picker]]"
+  - "[[charley]]"
+  - "[[cascade]]"
+  - "[[boston mess]]"
+tags:
+  - async
+  - symm
 ---
 
 siteswap pair:

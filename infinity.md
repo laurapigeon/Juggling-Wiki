@@ -6,10 +6,12 @@ hands: (20)(40).(20)(20).(10)(20).(20)(20).
 reverse pair:
   - "[[reverse infinity]]"
 siteswap pair:
-  - "[[columns alternating]]"
-  - "[[columns overthrow]]"
   - "[[reverse infinity]]"
-tags: [symm, sync]
+  - "[[columns overthrow]]"
+  - "[[columns alternating]]"
+tags:
+  - symm
+  - sync
 LoJ difficulty: 3
 ---
 

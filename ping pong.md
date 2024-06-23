@@ -6,17 +6,19 @@ hands: (10)(30).(10)(10).(30)(10).(10)(10).
 alt siteswaps:
   - "423"
 siteswap pair:
-  - "[[423]]"
-  - "[[burke's barrage]]"
-  - "[[fake columns alternating]]"
-  - "[[fake mills' mess]]"
-  - "[[reverse 423]]"
-  - "[[takeouts]]"
+  - "[[weave]]"
   - "[[the w]]"
+  - "[[takeouts]]"
+  - "[[reverse 423]]"
+  - "[[fake mills' mess]]"
+  - "[[fake columns alternating]]"
+  - "[[burke's barrage]]"
+  - "[[423]]"
 tags:
   - symm
   - sync
 ---
+
 siteswap pair:
 ```dataview
 LIST

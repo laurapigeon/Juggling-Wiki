@@ -6,7 +6,7 @@ hands: (10)(30).
 sync pair:
   - "[[6b fountain]]"
 symm pair:
-  - "[[three in one]]"
+  - "[[3 in 1]]"
 prop pair:
   - "[[fountain sync]]"
 tags:

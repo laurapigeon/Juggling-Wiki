@@ -6,10 +6,7 @@ hands: (30)(0).(0,80)(0,20).(0)(30).(0,20)(0,80).
 siteswap pair:
   - "[[fake columns]]"
   - "[[oy oy]]"
-tags:
-  - asymm
-  - carry
-  - sync
+tags: [asymm, carry, sync]
 LoJ difficulty: 2
 ---
 

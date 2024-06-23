@@ -6,13 +6,21 @@ hands: (-30)(-10).(30)(-10).(-20)(-30).(20)(-10).(-20)(10).
 alt siteswaps:
   - "522"
 siteswap pair:
-  - "[[boston mess]]"
-  - "[[cascade]]"
-  - "[[half mills' mess]]"
-  - "[[half shower]]"
-  - "[[mills' mess]]"
-  - "[[reverse cascade]]"
+  - "[[windmill]]"
+  - "[[underarm tennis]]"
   - "[[tennis]]"
+  - "[[reverse cascade]]"
+  - "[[mills' mess]]"
+  - "[[mills' mess windmill]]"
+  - "[[mills' mess reverse crosscade]]"
+  - "[[half shower]]"
+  - "[[half mills' mess]]"
+  - "[[flo's mess]]"
+  - "[[crossed arm cascade]]"
+  - "[[crossed arm reverse cascade]]"
+  - "[[cherry picker]]"
+  - "[[cascade]]"
+  - "[[boston mess]]"
 tags:
   - async
   - symm

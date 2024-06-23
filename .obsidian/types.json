@@ -13,7 +13,6 @@
     "symm pair": "multitext",
     "sync pair": "multitext",
     "beat pair": "multitext",
-    "reverse pair": "multitext",
-    "hands pair": "multitext"
+    "reverse pair": "multitext"
   }
 }

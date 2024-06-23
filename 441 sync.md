@@ -10,6 +10,7 @@ beat pair:
   - "[[box]]"
 tags: [slam, symm, sync]
 ---
+
 siteswap pair:
 ```dataview
 LIST

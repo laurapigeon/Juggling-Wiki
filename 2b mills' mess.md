@@ -1,11 +1,13 @@
 ---
-aliases: [stacked multiplex cascade]
-props: 6
-beats: 2
-siteswap: "[33]"
-hands: (10)(30).
-tags: [asymm, async, multiplex]
+props: 2
+beats: 6
+siteswap: 2T
+hands: (-30)(10).(30)(-10).(-30)(10).
+tags:
+  - async
+  - symm
 ---
+
 siteswap pair:
 ```dataview
 LIST

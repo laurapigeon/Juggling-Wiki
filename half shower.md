@@ -1,5 +1,6 @@
 ---
-aliases: [3b half shower]
+aliases:
+  - 3b half shower
 props: 3
 beats: 2
 siteswap: "3"
@@ -9,14 +10,24 @@ alt siteswaps:
 symm pair:
   - "[[reverse cascade]]"
 siteswap pair:
-  - "[[boston mess]]"
-  - "[[cascade]]"
-  - "[[charley]]"
-  - "[[half mills' mess]]"
-  - "[[mills' mess]]"
-  - "[[reverse cascade]]"
+  - "[[windmill]]"
+  - "[[underarm tennis]]"
   - "[[tennis]]"
-tags: [asymm, async]
+  - "[[reverse cascade]]"
+  - "[[mills' mess]]"
+  - "[[mills' mess windmill]]"
+  - "[[mills' mess reverse crosscade]]"
+  - "[[half mills' mess]]"
+  - "[[flo's mess]]"
+  - "[[crossed arm cascade]]"
+  - "[[crossed arm reverse cascade]]"
+  - "[[cherry picker]]"
+  - "[[charley]]"
+  - "[[cascade]]"
+  - "[[boston mess]]"
+tags:
+  - asymm
+  - async
 LoJ difficulty: 3
 ---
 

@@ -265,13 +265,18 @@
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
-  "lintOnFileChange": true,
+  "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
-  "lintCommands": [],
+  "lintCommands": [
+    {
+      "id": "templater-obsidian:templates/fill siteswap pair.md",
+      "name": "Templater: Insert templates/fill siteswap pair.md"
+    }
+  ],
   "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "single-line",

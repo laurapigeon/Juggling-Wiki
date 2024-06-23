@@ -4,15 +4,25 @@ beats: 6
 siteswap: "3"
 hands: (0,60)(30,60).(30)(0).(30,60)(-30,60).(0)(-30).(-30,60)(0,60).(-30)(30).
 siteswap pair:
-  - "[[boston mess]]"
-  - "[[cascade]]"
-  - "[[charley]]"
-  - "[[half mills' mess]]"
-  - "[[half shower]]"
-  - "[[mills' mess]]"
-  - "[[reverse cascade]]"
+  - "[[windmill]]"
+  - "[[underarm tennis]]"
   - "[[tennis]]"
-tags: [asymm, async, claw]
+  - "[[reverse cascade]]"
+  - "[[mills' mess]]"
+  - "[[mills' mess windmill]]"
+  - "[[mills' mess reverse crosscade]]"
+  - "[[half shower]]"
+  - "[[half mills' mess]]"
+  - "[[flo's mess]]"
+  - "[[crossed arm cascade]]"
+  - "[[crossed arm reverse cascade]]"
+  - "[[charley]]"
+  - "[[cascade]]"
+  - "[[boston mess]]"
+tags:
+  - asymm
+  - async
+  - claw
 ---
 
 siteswap pair:

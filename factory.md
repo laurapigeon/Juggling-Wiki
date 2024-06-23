@@ -9,9 +9,12 @@ beat pair:
   - "[[fast factory]]"
 reverse pair:
   - "[[reverse factory]]"
-hands pair:
-  - "[[columns]]"
-tags: [asymm, carry, claw, drop, sync]
+tags:
+  - asymm
+  - carry
+  - claw
+  - drop
+  - sync
 LoJ difficulty: 3
 ---
 

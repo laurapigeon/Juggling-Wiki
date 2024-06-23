@@ -1,12 +1,16 @@
 ---
-aliases: [hilo shower]
+aliases:
+  - hilo shower
 props: 3
 beats: 2
-siteswap: (6x,2x)(2x,2x)
-hands: (20)(20).(20)(20).(20,10)(20).(20)(20,10).
-hands pair:
-  - "[[shower]]"
-tags: [asymm, slam, sync]
+siteswap: "7131"
+hands: (20)(20).
+tags:
+  - asymm
+  - slam
+  - async
+sync pair:
+  - "[[sprung 31]]"
 ---
 
 siteswap pair:

@@ -19,6 +19,7 @@ tags:
   - sync
 LoJ difficulty: 4
 ---
+
 siteswap pair:
 ```dataview
 LIST

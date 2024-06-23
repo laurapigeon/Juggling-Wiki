@@ -9,9 +9,13 @@ reverse pair:
   - "[[5b reverse cascade]]"
 siteswap pair:
   - "[[5b reverse cascade]]"
-tags: [async, symm]
+  - "[[5b mills' mess]]"
+tags:
+  - async
+  - symm
 LoJ difficulty: 9
 ---
+
 siteswap pair:
 ```dataview
 LIST

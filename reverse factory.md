@@ -5,8 +5,14 @@ siteswap: (2x,4x)(4,2)(4,2)
 hands: (30)(0).(30)(-30,60).(30)(-30).(-30,60)(30,60).(0)(30).(30,60)(30).
 reverse pair:
   - "[[factory]]"
-tags: [asymm, carry, claw, drop, sync]
+tags:
+  - asymm
+  - carry
+  - claw
+  - sync
 LoJ difficulty: 4
+beat pair:
+  - "[[reverse fast factory]]"
 ---
 siteswap pair:
 ```dataview

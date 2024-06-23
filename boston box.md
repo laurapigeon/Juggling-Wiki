@@ -1,5 +1,6 @@
 ---
-aliases: [boston shuffle box]
+aliases:
+  - boston shuffle box
 props: 3
 beats: 2
 siteswap: (4x,2x)(2,4x)*
@@ -9,7 +10,12 @@ siteswap pair:
   - "[[boston shuffle]]"
   - "[[burke's slams]]"
   - "[[takeouts slams]]"
-tags: [slam, symm, sync]
+tags:
+  - slam
+  - symm
+  - sync
+sync pair:
+  - "[[52512]]"
 ---
 
 siteswap pair:

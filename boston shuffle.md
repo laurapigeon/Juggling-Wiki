@@ -4,11 +4,14 @@ beats: 4
 siteswap: (4x,2x)(2,4x)*
 hands: (20)(30).(30,60)(20,-10).(30)(20).(0)(30,60).
 siteswap pair:
-  - "[[boston box]]"
-  - "[[boston shuffle orbit]]"
-  - "[[burke's slams]]"
   - "[[takeouts slams]]"
-tags: [slam, symm, sync]
+  - "[[burke's slams]]"
+  - "[[boston shuffle orbit]]"
+  - "[[boston box]]"
+tags:
+  - slam
+  - symm
+  - sync
 ---
 
 siteswap pair:

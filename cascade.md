@@ -12,13 +12,21 @@ prop pair:
 reverse pair:
   - "[[reverse cascade]]"
 siteswap pair:
-  - "[[boston mess]]"
-  - "[[charley]]"
-  - "[[half mills' mess]]"
-  - "[[half shower]]"
-  - "[[mills' mess]]"
-  - "[[reverse cascade]]"
+  - "[[windmill]]"
+  - "[[underarm tennis]]"
   - "[[tennis]]"
+  - "[[reverse cascade]]"
+  - "[[mills' mess]]"
+  - "[[mills' mess windmill]]"
+  - "[[mills' mess reverse crosscade]]"
+  - "[[half shower]]"
+  - "[[half mills' mess]]"
+  - "[[flo's mess]]"
+  - "[[crossed arm cascade]]"
+  - "[[crossed arm reverse cascade]]"
+  - "[[cherry picker]]"
+  - "[[charley]]"
+  - "[[boston mess]]"
 tags:
   - async
   - symm

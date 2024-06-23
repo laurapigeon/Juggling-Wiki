@@ -5,9 +5,10 @@ siteswap: "531"
 hands: (-30)(-10).(-30)(-10).(20)(-10).
 siteswap pair:
   - "[[531]]"
-hands pair:
-  - "[[mills' mess]]"
-tags: [async, pass, symm]
+tags:
+  - async
+  - pass
+  - symm
 LoJ difficulty: 6
 ---
 

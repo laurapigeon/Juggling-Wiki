@@ -1,13 +1,19 @@
 ---
-aliases: [4b wimpy]
+aliases:
+  - 4b wimpy
 props: 4
 beats: 1
 siteswap: (4x,4x)
 hands: (10,10)(30).(10,-10)(30).
 prop pair:
   - "[[rainbow cross]]"
-tags: [asymm, sync]
+tags:
+  - asymm
+  - sync
+siteswap pair:
+  - "[[4b half shower]]"
 ---
+
 siteswap pair:
 ```dataview
 LIST

@@ -6,13 +6,14 @@ hands: (30)(0).(30,-10)(30,50).(0)(30,-10).(30,50)(30).
 symm pair:
   - "[[fake columns]]"
 siteswap pair:
-  - "[[423]]"
-  - "[[burke's barrage]]"
-  - "[[fake mills' mess]]"
-  - "[[ping pong]]"
-  - "[[reverse 423]]"
-  - "[[takeouts]]"
+  - "[[weave]]"
   - "[[the w]]"
+  - "[[takeouts]]"
+  - "[[reverse 423]]"
+  - "[[ping pong]]"
+  - "[[fake mills' mess]]"
+  - "[[burke's barrage]]"
+  - "[[423]]"
 tags:
   - carry
   - symm

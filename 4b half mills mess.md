@@ -4,9 +4,13 @@ beats: 4
 siteswap: "4"
 hands: (-30)(-10).(30)(10).(30)(10).(-30)(-10).
 siteswap pair:
-  - "[[4b mills' mess]]"
+  - "[[4b mills' mess windmill]]"
+  - "[[4b windmill]]"
   - "[[fountain]]"
-tags: [asymm, async]
+  - "[[4b mills' mess]]"
+tags:
+  - asymm
+  - async
 ---
 
 siteswap pair:

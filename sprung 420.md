@@ -1,0 +1,20 @@
+---
+props: 3
+beats: 6
+siteswap: (8,2x)(2x,4)(0,2x)*
+hands: (20)(20).
+tags:
+  - sync
+  - symm
+  - slam
+---
+
+siteswap pair:
+```dataview
+LIST
+WHERE siteswap = this.siteswap
+WHERE file.name != this.file.name
+```
+```dataviewjs
+dv.paragraph("```siteswap\npattern: " + dv.current().siteswap + "\nhands: " + dv.current().hands + "\ncolors: mixed\n```");
+```

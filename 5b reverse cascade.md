@@ -8,10 +8,14 @@ prop pair:
 reverse pair:
   - "[[5b cascade]]"
 siteswap pair:
+  - "[[5b mills' mess]]"
   - "[[5b cascade]]"
-tags: [async, symm]
+tags:
+  - async
+  - symm
 LoJ difficulty: 9
 ---
+
 siteswap pair:
 ```dataview
 LIST

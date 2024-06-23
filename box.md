@@ -1,5 +1,6 @@
 ---
-aliases: [3b box]
+aliases:
+  - 3b box
 props: 3
 beats: 2
 siteswap: (4,2x)*
@@ -13,10 +14,13 @@ prop pair:
 beat pair:
   - "[[441 sync]]"
 siteswap pair:
-  - "[[inverted box]]"
-  - "[[luke's shuffle]]"
   - "[[n box]]"
-tags: [slam, symm, sync]
+  - "[[luke's shuffle]]"
+  - "[[inverted box]]"
+tags:
+  - slam
+  - symm
+  - sync
 LoJ difficulty: 6
 ---
 

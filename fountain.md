@@ -1,5 +1,6 @@
 ---
-aliases: [4b fountain]
+aliases:
+  - 4b fountain
 props: 4
 beats: 2
 siteswap: "4"
@@ -8,9 +9,17 @@ sync pair:
   - "[[fountain sync]]"
 prop pair:
   - "[[6b fountain]]"
-tags: [async, symm]
+tags:
+  - async
+  - symm
 LoJ difficulty: 7
+siteswap pair:
+  - "[[4b mills' mess windmill]]"
+  - "[[4b windmill]]"
+  - "[[4b mills' mess]]"
+  - "[[4b half mills mess]]"
 ---
+
 siteswap pair:
 ```dataview
 LIST

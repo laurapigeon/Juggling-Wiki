@@ -3,9 +3,9 @@ props: 4
 beats: 6
 siteswap: "534"
 hands: (-30)(-10).(-30)(-10).(30)(-10).
-hands pair:
-  - "[[mills' mess]]"
-tags: [async, symm]
+tags:
+  - async
+  - symm
 ---
 
 siteswap pair:

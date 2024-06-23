@@ -11,6 +11,7 @@ prop pair:
 tags: [symm, sync]
 LoJ difficulty: 7
 ---
+
 siteswap pair:
 ```dataview
 LIST

@@ -6,14 +6,24 @@ hands: (0)(30).(30)(0).(30)(-30).(0)(-30).(-30)(0).(-30)(30).
 alt siteswaps:
   - "522"
 siteswap pair:
-  - "[[cascade]]"
-  - "[[charley]]"
-  - "[[half mills' mess]]"
-  - "[[half shower]]"
-  - "[[mills' mess]]"
-  - "[[reverse cascade]]"
+  - "[[windmill]]"
+  - "[[underarm tennis]]"
   - "[[tennis]]"
-tags: [asymm, async]
+  - "[[reverse cascade]]"
+  - "[[mills' mess]]"
+  - "[[mills' mess windmill]]"
+  - "[[mills' mess reverse crosscade]]"
+  - "[[half shower]]"
+  - "[[half mills' mess]]"
+  - "[[flo's mess]]"
+  - "[[crossed arm cascade]]"
+  - "[[crossed arm reverse cascade]]"
+  - "[[cherry picker]]"
+  - "[[charley]]"
+  - "[[cascade]]"
+tags:
+  - asymm
+  - async
 LoJ difficulty: 6
 ---
 

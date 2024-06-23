@@ -4,10 +4,13 @@ beats: 2
 siteswap: (4,2x)*
 hands: (20)(30).(30,60)(20,-10).(30)(20).(20,-10)(30,60).(20)(30).(30,60)(20,-10).(30)(20).(20,-10)(30,60).
 siteswap pair:
-  - "[[box]]"
-  - "[[inverted box]]"
   - "[[luke's shuffle]]"
-tags: [asymm, slam, sync]
+  - "[[inverted box]]"
+  - "[[box]]"
+tags:
+  - asymm
+  - slam
+  - sync
 ---
 
 siteswap pair:

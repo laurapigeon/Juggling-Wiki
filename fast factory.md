@@ -5,7 +5,14 @@ siteswap: (2,4x)(2x,4)
 hands: (30,60)(-30,60).(-30)(0).(-30,60)(30).(0)(30).
 beat pair:
   - "[[factory]]"
-tags: [asymm, carry, claw, drop, sync]
+tags:
+  - asymm
+  - carry
+  - claw
+  - sync
+  - drop
+reverse pair:
+  - "[[reverse fast factory]]"
 ---
 
 siteswap pair:
