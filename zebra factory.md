@@ -1,12 +1,15 @@
 ---
 props: 3
-beats: 10
-siteswap: 3[43]032T
-hands: (30)(10).(30)(10).(10)(-10).(-30)(-10).(-30)(10).
+beats: 3
+siteswap: (4x,2x)(2,4x)(2x,4)
+hands: (20,-10)(30,60).(30)(20).(30,60)(-30,60).(-30)(0).(-30,60)(30).(0)(30).
 tags:
-  - async
-  - multiplex
-  - symm
+  - sync
+  - asymm
+  - drop
+  - carry
+  - claw
+  - slam
 ---
 
 siteswap pair:

@@ -19,6 +19,8 @@ tags:
   - symm
   - sync
 LoJ difficulty: 4
+prop pair:
+  - "[[4b burke's barrage]]"
 ---
 
 siteswap pair:

@@ -1,12 +1,12 @@
 ---
 props: 4
 beats: 2
-siteswap: ([44x],2)(2,4x)
+siteswap: ([4x4],2)(2,4x)
 hands: (0)(30).(30)(30).(30)(30).(10)(30).
 tags:
   - asymm
-  - async
   - multiplex
+  - sync
 ---
 
 siteswap pair:

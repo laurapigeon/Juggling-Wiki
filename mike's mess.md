@@ -1,12 +1,16 @@
 ---
-aliases: [522 mills' mess]
+aliases:
+  - 522 mills' mess
 props: 3
 beats: 6
 siteswap: "522"
 hands: (-30)(-10).(-10)(10).(10)(-10).
 siteswap pair:
-  - "[[522]]"
-tags: [async, carry, symm]
+  - "[[3b high cascade]]"
+tags:
+  - async
+  - carry
+  - symm
 ---
 
 siteswap pair:

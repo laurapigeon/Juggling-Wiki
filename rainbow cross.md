@@ -6,7 +6,7 @@ beats: 2
 siteswap: (4x,4x)(4,0)
 hands: (30,10)(0).(30,-10)(30).(0)(30).(30)(30).
 prop pair:
-  - "[[wimpy]]"
+  - "[[4b rainbow cross]]"
 tags:
   - asymm
   - sync

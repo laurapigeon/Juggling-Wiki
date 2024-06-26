@@ -1,12 +1,18 @@
 ---
-props: 3
-beats: 10
-siteswap: 3[43]032T
-hands: (30)(10).(30)(10).(10)(-10).(-30)(-10).(-30)(10).
+aliases:
+  - 525 mills' mess
+props: 4
+beats: 6
+siteswap: "552"
+hands: (30)(10).(-30)(-10).(-30)(10).
 tags:
   - async
-  - multiplex
   - symm
+siteswap pair:
+  - "[[4b fake mills' mess]]"
+  - "[[552]]"
+prop pair:
+  - "[[burke's barrage]]"
 ---
 
 siteswap pair:

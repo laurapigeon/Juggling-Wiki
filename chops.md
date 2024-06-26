@@ -1,9 +1,12 @@
 ---
 props: 3
 beats: 2
-siteswap: (4x,2)*
-hands: (-20)(-10).(0,40)(30,60).
-tags: [carry, symm, sync]
+siteswap: "3"
+hands: (-30)(30,60).
+tags:
+  - carry
+  - symm
+  - sync
 ---
 
 siteswap pair:

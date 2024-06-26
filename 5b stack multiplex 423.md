@@ -1,12 +1,12 @@
 ---
-props: 3
-beats: 10
-siteswap: 3[43]032T
-hands: (30)(10).(30)(10).(10)(-10).(-30)(-10).(-30)(10).
+props: 5
+beats: 4
+siteswap: ([44],[22])(4x,[22])*
+hands: (10)(30).(20)(20).(10)(20).(20)(30).
 tags:
-  - async
-  - multiplex
+  - sync
   - symm
+  - multiplex
 ---
 
 siteswap pair:

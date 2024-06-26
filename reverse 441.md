@@ -2,7 +2,7 @@
 aliases:
   - 441 outside
 props: 3
-beats: 3
+beats: 4
 siteswap: "441"
 hands: (30)(10).(30)(20).(20)(10).
 reverse pair:

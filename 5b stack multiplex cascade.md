@@ -1,14 +1,13 @@
 ---
-props: 3
-beats: 10
-siteswap: 3[43]032T
-hands: (30)(10).(30)(10).(10)(-10).(-30)(-10).(-30)(10).
+props: 5
+beats: 6
+siteswap: ([4x4x],[22])(2,[4x4x])(4x,[22])*
+hands: (10)(30).(20)(20).(20)(20).(10)(30).(10)(20).(20)(30).
 tags:
+  - asymm
   - async
   - multiplex
-  - symm
 ---
-
 siteswap pair:
 ```dataview
 LIST

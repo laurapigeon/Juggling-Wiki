@@ -1,0 +1,12 @@
+- [[3b high cascade]]
+- adjust height for all exercises
+- adjust dwell time for all exercises
+- [[3 up flash]] (55500)
+- [[snake]] (50505)
+- [[4b half shower async]]
+- [[534]]
+- [[552]]
+- [[5551]]
+- [[55514]]
+- [[4 up flash]]
+- [[5b cascade]] (5)

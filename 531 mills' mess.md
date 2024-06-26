@@ -1,6 +1,6 @@
 ---
 props: 3
-beats: 3
+beats: 6
 siteswap: "531"
 hands: (-30)(-10).(-30)(-10).(20)(-10).
 siteswap pair:

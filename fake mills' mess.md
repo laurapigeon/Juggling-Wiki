@@ -17,6 +17,8 @@ tags:
   - symm
   - sync
 LoJ difficulty: 3
+sync pair:
+  - "[[234 mills' mess]]"
 ---
 
 siteswap pair:

@@ -5,13 +5,11 @@ props: 4
 beats: 1
 siteswap: (4x,4x)
 hands: (10,10)(30).(10,-10)(30).
-prop pair:
-  - "[[rainbow cross]]"
 tags:
   - asymm
   - sync
 siteswap pair:
-  - "[[4b half shower]]"
+  - "[[4b half shower sync]]"
 ---
 
 siteswap pair:
