@@ -11,7 +11,7 @@ siteswap pair:
   - "[[takeouts]]"
   - "[[reverse 423]]"
   - "[[ping pong]]"
-  - "[[fake mills' mess]]"
+  - "[[fake mess]]"
   - "[[burke's barrage]]"
   - "[[423]]"
 tags:

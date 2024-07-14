@@ -9,7 +9,7 @@ tags:
   - async
   - symm
 siteswap pair:
-  - "[[4b fake mills' mess]]"
+  - "[[4b fake mess]]"
   - "[[552]]"
 prop pair:
   - "[[burke's barrage]]"

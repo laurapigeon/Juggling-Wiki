@@ -11,7 +11,7 @@ siteswap pair:
   - "[[crossed arm cascade]]"
   - "[[crossed arm reverse cascade]]"
   - "[[flo's mess]]"
-  - "[[half mills' mess]]"
+  - "[[half mess]]"
   - "[[half shower]]"
   - "[[mills' mess reverse crosscade]]"
   - "[[mills' mess windmill]]"
@@ -19,7 +19,9 @@ siteswap pair:
   - "[[reverse cascade]]"
   - "[[tennis]]"
   - "[[windmill]]"
-tags: [async, symm]
+tags:
+  - async
+  - symm
 ---
 
 siteswap pair:

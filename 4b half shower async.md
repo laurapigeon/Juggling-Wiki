@@ -2,12 +2,12 @@
 props: 4
 beats: 2
 siteswap: "53"
-hands: (10)(30).
+hands: (30)(10).(10)(30).
 tags:
   - asymm
   - async
 siteswap pair:
-  - "[[53 mills' mess]]"
+  - "[[53 mess]]"
 ---
 
 siteswap pair:

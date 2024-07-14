@@ -11,7 +11,7 @@ siteswap pair:
   - "[[boston mess]]"
   - "[[cascade]]"
   - "[[charley]]"
-  - "[[half mills' mess]]"
+  - "[[half mess]]"
   - "[[half shower]]"
   - "[[mills' mess]]"
   - "[[reverse cascade]]"

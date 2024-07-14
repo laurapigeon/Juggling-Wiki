@@ -4,14 +4,14 @@ beats: 4
 siteswap: (4,2)(4x,2)*
 hands: (-30)(10).(-30,40)(0,40).(30)(10,-20).(30)(10).
 sync pair:
-  - "[[423 mills' mess]]"
+  - "[[423 mess]]"
 siteswap pair:
   - "[[weave]]"
   - "[[the w]]"
   - "[[takeouts]]"
   - "[[reverse 423]]"
   - "[[ping pong]]"
-  - "[[fake mills' mess]]"
+  - "[[fake mess]]"
   - "[[fake columns alternating]]"
   - "[[423]]"
 tags:

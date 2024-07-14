@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f78d5162050d0433",
+        "id": "5299df5409a82d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "12cfbd54f31c171a",
+            "id": "bfaba327e06a5c74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relf's factory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ad290101ff38a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "relf's revenge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "108c0f03520afd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "relf's revenge 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f79eaacf1e3f8b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "relf's rubenstein's.md",
+                "file": "notes/mondaymess2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relf's rubenstein's.md",
+                "file": "notes/mondaymess2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relf's rubenstein's.md",
+                "file": "notes/mondaymess2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relf's rubenstein's.md"
+                "file": "notes/mondaymess2023.md"
               }
             }
           },
@@ -184,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "relf's rubenstein's.md"
+                "file": "notes/mondaymess2023.md"
               }
             }
           }
@@ -206,34 +169,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f79eaacf1e3f8b43",
+  "active": "bfaba327e06a5c74",
   "lastOpenFiles": [
-    "relf's revenge 6.md",
-    "relf's rubenstein's.md",
-    "relf's revenge.md",
-    "relf's factory.md",
-    "rubenstein's revenge.md",
-    "romeo's revenge.md",
-    "zebra factory.md",
-    "tommi's mess.md",
-    "tennessee waltz.md",
-    "shuffle-switch.md",
-    "shower cascade.md",
-    "ripley's windmill.md",
-    "ripley's rainbow.md",
-    "reverse factory.md",
-    "reverse 441.md",
-    "factory.md",
-    "97531.md",
-    "75314.md",
-    "55514.md",
-    "52512.md",
-    "534.md",
-    "531 mills' mess.md",
-    "531.md",
-    "441.md",
-    "234 mills' mess.md",
-    "4 up flash.md",
+    "sync mess.md",
+    "reverse mills' mess.md",
+    "peruvian mess.md",
+    "mills' mess reverse crosscade.md",
+    "notes/mills' mess flourishes.md",
+    "half mess.md",
+    "fork catch 42333 mess.md",
+    "flipped reverse mills' mess.md",
+    "flipped mills' mess.md",
+    "flipped hectic mess.md",
+    "flipped fake mess.md",
+    "fake mess shower.md",
+    "fake mess.md",
+    "fake columns mess.md",
+    "531441333 mess.md",
+    "441333 mess.md",
+    "53534 mess.md",
+    "52233 mess.md",
+    "42333 mess looping 2.md",
+    "42333 mess.md",
+    "756 mess.md",
+    "744 mess.md",
+    "645 mess.md",
+    "633 mess.md",
+    "564 mess.md",
+    "561 mess.md",
     "Untitled",
     "notes",
     "Pasted image 20240531223806.png",

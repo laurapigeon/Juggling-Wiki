@@ -1,14 +1,13 @@
 ---
 props: 3
-beats: 6
-siteswap: "423"
-hands: (30)(-10).(-30)(-10).(-30)(-10).
+beats: 10
+siteswap: "44142"
+hands: (-30)(-10).(30)(30).(0)(10).(30)(-10).(-30)(-30).
 tags:
   - async
   - symm
+  - slam
   - carry
-sync pair:
-  - "[[fake mills' mess]]"
 ---
 
 siteswap pair:

@@ -18,7 +18,7 @@ tags:
   - sync
 LoJ difficulty: 3
 sync pair:
-  - "[[234 mills' mess]]"
+  - "[[234 mess]]"
 ---
 
 siteswap pair:

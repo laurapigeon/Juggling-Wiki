@@ -10,7 +10,7 @@ siteswap pair:
   - "[[the w]]"
   - "[[takeouts]]"
   - "[[reverse 423]]"
-  - "[[fake mills' mess]]"
+  - "[[fake mess]]"
   - "[[fake columns alternating]]"
   - "[[burke's barrage]]"
   - "[[423]]"

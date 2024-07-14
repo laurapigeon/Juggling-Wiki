@@ -7,7 +7,7 @@ siteswap pair:
   - "[[4b mills' mess windmill]]"
   - "[[4b windmill]]"
   - "[[fountain]]"
-  - "[[4b half mills mess]]"
+  - "[[4b half mess]]"
 tags:
   - async
   - symm

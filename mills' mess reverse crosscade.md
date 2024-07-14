@@ -11,7 +11,7 @@ siteswap pair:
   - "[[mills' mess]]"
   - "[[mills' mess windmill]]"
   - "[[half shower]]"
-  - "[[half mills' mess]]"
+  - "[[half mess]]"
   - "[[flo's mess]]"
   - "[[crossed arm cascade]]"
   - "[[crossed arm reverse cascade]]"

@@ -4,7 +4,7 @@ aliases:
 props: 3
 beats: 6
 siteswap: "3"
-hands: (-30)(-10).(30)(-10).(-30)(10).
+hands: (-30)(10).(-30)(-10).(30)(-10).
 alt siteswaps:
   - "522"
 siteswap pair:
@@ -15,7 +15,7 @@ siteswap pair:
   - "[[mills' mess windmill]]"
   - "[[mills' mess reverse crosscade]]"
   - "[[half shower]]"
-  - "[[half mills' mess]]"
+  - "[[half mess]]"
   - "[[flo's mess]]"
   - "[[crossed arm cascade]]"
   - "[[crossed arm reverse cascade]]"
@@ -26,6 +26,8 @@ siteswap pair:
 tags:
   - async
   - symm
+reverse pair:
+  - "[[reverse mills' mess]]"
 ---
 
 siteswap pair:

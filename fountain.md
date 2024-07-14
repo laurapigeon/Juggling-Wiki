@@ -17,7 +17,7 @@ siteswap pair:
   - "[[4b mills' mess windmill]]"
   - "[[4b windmill]]"
   - "[[4b mills' mess]]"
-  - "[[4b half mills mess]]"
+  - "[[4b half mess]]"
 ---
 
 siteswap pair:

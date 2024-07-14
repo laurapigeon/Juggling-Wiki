@@ -7,11 +7,13 @@ siteswap pair:
   - "[[423]]"
   - "[[burke's barrage]]"
   - "[[fake columns alternating]]"
-  - "[[fake mills' mess]]"
+  - "[[fake mess]]"
   - "[[ping pong]]"
   - "[[reverse 423]]"
   - "[[takeouts]]"
-tags: [symm, sync]
+tags:
+  - symm
+  - sync
 LoJ difficulty: 2
 ---
 

@@ -4,11 +4,11 @@ aliases:
 props: 3
 beats: 4
 siteswap: "441"
-hands: (30)(10).(30)(20).(20)(10).
+hands: (30)(10).(10)(20).(20)(30).
 reverse pair:
   - "[[441]]"
 siteswap pair:
-  - "[[441 mills' mess]]"
+  - "[[441 mess]]"
   - "[[441]]"
 tags:
   - async
